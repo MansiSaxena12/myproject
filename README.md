@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## 🚀 Git \& GitHub Practice – Progress Summary
 
 #### 📌 Overview
@@ -320,3 +321,6 @@ This repository documents hands-on Git \& GitHub activities performed today. It 
 
 Today’s session covered professional-level Git workflows used in real DevOps + software development environments. Many developers do not reach this depth — this is advanced practice, especially squash + conflict + rebase.
 
+=======
+Demo Project
+>>>>>>> c397468 (first commit)
